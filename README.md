@@ -6,8 +6,6 @@ This application can be used to search up books. Users will also have the abilit
 
 ## Table of Contents 
 * [Website](#Website)
-* [Installation](#Installation)
-* [Usage](#Usage)
 * [Technology](#technology)
 * [Questions](#Questions)
 
