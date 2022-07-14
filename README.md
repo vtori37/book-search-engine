@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Description 
-[alt text](./assets/Images/screenshot.png) -->
+[alt text](./screenshot.png) -->
 This application can be used to search up books. Users will also have the ability to signup and save books they search up. 
 
 ## Table of Contents 
