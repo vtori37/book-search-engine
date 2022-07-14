@@ -5,14 +5,14 @@
 This application can be used to search up books. Users will also have the ability to signup and save books they search up. 
 
 ## Table of Contents 
-* [Test](#Test)
+* [Website](#Website)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Technology](#technology)
 * [Questions](#Questions)
 
-## Test
-Please click this link to view a demonstration of this application:
+## Website
+Please click this link to view the deployed application:
 [Demo](https://book-search-engine-10.herokuapp.com/)
 
 ## Technology
