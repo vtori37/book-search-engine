@@ -6,7 +6,7 @@ type User {
   username: String
   email: String
   bookCount: Int
-  savedBooks[Book]
+  savedBooks: [Book]
 }
 type Book {
   bookId: String
@@ -16,7 +16,7 @@ type Book {
   image: String
   link: String
 }
-type BookInput {
+input BookInput {
   bookId: String
   authors: [String]
   description: String
@@ -30,13 +30,13 @@ type Query {
 type Mutation {
   login(email: String!, password: String!): Auth
   addUser(username: String!, email: String!, password: String!): Auth
-  saveBook(book: BookInput!): User
+  saveBook(bookData: BookInput!): User
   removeBook(bookId: ID!): User
 }
 type Auth {
   token: ID!
   user: User
 }
-`
+`;
 
 module.exports = typeDefs;
