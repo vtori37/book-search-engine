@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Description 
-[Homepage](./Develop/screenshot.png)
+![Homepage](./Develop/screenshot.png)
 This application can be used to search up books. Users will also have the ability to signup and save books they search up. 
 
 ## Table of Contents 
